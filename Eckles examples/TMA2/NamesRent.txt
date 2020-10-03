@@ -1,0 +1,10 @@
+Peter_Hard The_Godfather (1972) Crime 12,00 1/26/2017 6/21/2017
+Elizabeth_Cooper The_Shawshank_Redemption (1994) Drama 15,00 4/19/2017 5/11/2017
+Melissa_Chamber Schindler's_List (1993) Biografy 10,00 3/8/2018 3/13/2018
+Coneticut_Stirling Raging_Bull (1980) Sport 12,00 7/12/2018 10/1/2018
+Veronica_Siker Casablanca (1942) Romance 10,00 12/24/2018 1/1/2019
+Kevin_Kooper Citizen_Kane (1941) Mystery 14,00 10/22/2017 1/12/2018
+Kevin_Naranjo Gone_with_the_Wind (1939) Romance 12,00 5/11/2017 7/3/2017
+Soledad_Peralta The_Wizard_of_Oz (1939) Adventure 15,00 2/12/2018 9/2/2019
+Rezza_Omawe One_Flew_Over_the_Cuckoo's_Nest (1975) Drama 12,00 3/12/2019 5/21/2019
+Salvatore_Leon Lawrence_of_Arabia (1962) Adventure 10,00 1/24/2016 9/21/2016

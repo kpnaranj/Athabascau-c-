@@ -1,0 +1,21 @@
+// :BuiltInTypeConstructors.cpp
+#include <iostream>
+using namespace std;
+
+class B{
+	int i;
+public:
+	B(int ii);
+	void print();	
+};
+
+B::B(int ii) : i(ii) {}
+void B::print() { cout<< i << endl;}
+
+int main() {
+	B a(1), b(2);
+	float pi(3.14159); //This is a way of adding values in a function 
+	a.print(); b.print();
+	cout<< pi <<endl;	
+	
+}///:~

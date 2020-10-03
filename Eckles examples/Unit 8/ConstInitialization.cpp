@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+class Fred{
+	const int size;
+public:
+	Fred(int sz);
+	void print();	
+};
+
+Fred::Fred(int sz) : size(sz) {} //This is the place for const functions 
+void Fred::print(){cout<<size<<endl;}
+
+int main() {
+	Fred a(1), b(2), c(3);
+	a.print(), b.print(), c.print();	
+} ///:~
